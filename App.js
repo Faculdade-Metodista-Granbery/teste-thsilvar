@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <CardQuote 
-        quote='Não caia no golpe TESTE !'
+        quote='Não caia no golpe TESTE OI OI !'
       />
     </View>
   );
